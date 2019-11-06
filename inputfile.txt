@@ -1,0 +1,15 @@
+Are the following lines palindromes?
+A man, a plan, a canal, Panama.
+This line is not a palindrome
+Don't nod
+The next one might be my favorite
+Taco Cat!
+Another non-palindrome
+Rats live on no evil star.
+If your program finds this line, it's not working
+aabbccbb
+If I had a hi-fi
+Yo, banana boy!
+No lemons, no melon
+Now I see bees, I won.
+
